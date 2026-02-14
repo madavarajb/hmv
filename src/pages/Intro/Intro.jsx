@@ -5,7 +5,7 @@ import confetti from "canvas-confetti";
 
 import intro from "../../assets/intro.png";
 import intro2 from "../../assets/propose.png";
-import threat from "../../assets/threat.png";
+import threat from "../../assets/Threat.png";
 import explain from "../../assets/explain.png";
 import happyjump from "../../assets/happyJump.png";
 import Books from "../../assets/stakebook.png";
