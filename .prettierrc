@@ -1,0 +1,24 @@
+
+
+
+{
+    "printWidth": 100,
+    "trailingComma": "all",
+    "tabWidth": 4,
+    "semi": true,
+    "importOrder": [
+        "^react",
+        "^@?\\w",
+        "^(@|components)(/.*|$)",
+        "^\\u0000",
+        "^\\.\\.(?!/?$)",
+        "^\\.\\./?$",
+        "^\\./(?=.*/)(?!/?$)",
+        "^\\.(?!/?$)",
+        "^\\./?$",
+        "^.+\\.?(css)$"
+    ],
+    "importOrderSeparation": true,
+    "importOrderSortSpecifiers": true
+}
+
